@@ -1,2 +1,2 @@
 # deep_learning
-Training neural networks
+Training neural networks and much more... 
