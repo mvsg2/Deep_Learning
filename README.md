@@ -1,5 +1,5 @@
 # Deep Learning
-Training neural networks and much more... 
+Training deep neural networks and much more... 
 
 Check out the [TensorFlow website](https://www.tensorflow.org/) if you're interested in looking up how it works!
 
